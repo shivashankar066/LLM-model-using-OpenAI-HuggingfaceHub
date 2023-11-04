@@ -1,4 +1,4 @@
-# Building the LLM Model using OpenAI key and HuggingFaceHUb key token.
+## Building the LLM Model using OpenAI key and HuggingFaceHub key token.
 
 ### Build LLM Model using OpenAI
 
